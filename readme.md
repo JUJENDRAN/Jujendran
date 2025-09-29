@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👋 Hello, I'm **Jujendran R**  
-### Independent Developer · Explorer of Diverse Technologies
+### Independent Developer · Explorer of Diverse Technologies & AI Enthustic
 
 *Building, learning, and sharing—one project at a time.*
 
