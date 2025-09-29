@@ -71,7 +71,7 @@ If you’re passionate about learning, building, or sharing knowledge, let’s j
 
 <div align="center">
 
-*Thanks for visiting my GitHub Profile!  
+*Thanks for visiting my GitHub!  
 Let's learn, build, and grow together.*
 
 </div>
