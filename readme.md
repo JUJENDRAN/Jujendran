@@ -58,6 +58,17 @@ _Documenting my journey through algorithmic challenges and coding puzzles._
 
 ---
 
+### 🔥 Contribution Streak
+
+<div align="center">
+
+![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=JUJENDRAN&show_icons=true&theme=radical&v=1)
+
+</div>
+
+
+---
+
 ## 🤝 Let's Connect & Collaborate!
 
 I’m always open to connecting with fellow developers, collaborating on interesting projects, or exploring new technologies together.  
